@@ -7,8 +7,11 @@
 [Further info](https://zindi.africa/competitions/tanzania-tourism-prediction)
 
 
-# [UmojaHack Africa 2022: Monthly Insurance Claim Prediction Challenge (INTERMEDIATE)](
+# [UmojaHack Africa 2022: Monthly Insurance Claim Prediction Challenge (INTERMEDIATE)](https://github.com/ashioyajotham/Zindi-Solutions/blob/main/Monthly%20Insurance%20Claim%20Predictions.ipynb)
 
 * The objective of this challenge is to create a machine learning model to predict how much a client will claim from Zimnat per month for a whole year.
+  [Further info](https://zindi.africa/competitions/umojahack-africa-2022-intermediate-challenge)
+  
 * Model: [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 * Evaluation metric: [sklearn.metrics.mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
+
