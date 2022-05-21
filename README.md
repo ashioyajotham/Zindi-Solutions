@@ -22,7 +22,8 @@
 * Device failure detection and monitoring is critical to AirQo’s business; faulty devices need to be identified, isolated and fixed or replaced with urgency. Data received from a device can be used to identify whether the device is working correctly or not.
 * Task is to develop a classification model to identify a device has an off set fault or not, regardless of the device. The model can be used by AirQo to automatically     flag a device that is returning faulty data. [Further info](https://zindi.africa/competitions/umojahack-africa-2022-beginner-challenge)
 
-* Model: [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-         [sklearn.ensemble.RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+* Models: [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+     [sklearn.ensemble.RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * Evaluation metric: [sklearn.metrics.mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
  
