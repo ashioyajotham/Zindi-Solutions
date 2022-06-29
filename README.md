@@ -27,7 +27,7 @@
      [sklearn.ensemble.RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
  
 
-# [AI4D Africa’s Anglophone Research Lab Tanzania Tourism Classification Challenge]()
+# [AI4D Africa’s Anglophone Research Lab Tanzania Tourism Classification Challenge](https://github.com/ashioyajotham/Zindi-Solutions/blob/main/ai4d-tourism-classification.ipynb)
 
 * The objective of this hackathon is to develop a machine learning model that can classify the range of expenditures a tourist spends in Tanzania. The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania. [Read more](https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge)
 
