@@ -32,7 +32,7 @@
 * The objective of this hackathon is to develop a machine learning model that can classify the range of expenditures a tourist spends in Tanzania. The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania. [Read more](https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge)
 
 
-# [FREE AI Classes In Every City Hackathon]()
+# [FREE AI Classes In Every City Hackathon](https://github.com/ashioyajotham/Zindi-Solutions/blob/main/great-motors.ipynb)
 
 * The objective of the challenge is to predict the price (Amount (Million Naira) the company should sell a car based on the available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance). The objective is the predict the selling price. [Read more](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon)
 
