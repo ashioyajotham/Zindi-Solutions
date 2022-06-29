@@ -1,6 +1,6 @@
 # Zindi-Solutions
 
-# [Tanzania Tourism Prediction by Pycon Tanzania Community]()
+# [Tanzania Tourism Prediction by Pycon Tanzania Community](https://github.com/ashioyajotham/Zindi-Solutions/blob/main/tz-tourism.ipynb)
 
 * The objective is to develop a machine learning model to predict what a tourist will spend when visiting Tanzania.
   The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.
@@ -25,5 +25,17 @@
 * Models: [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
      [sklearn.ensemble.RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-* Evaluation metric: [sklearn.metrics.mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
  
+
+# [AI4D Africa’s Anglophone Research Lab Tanzania Tourism Classification Challenge]()
+
+* The objective of this hackathon is to develop a machine learning model that can classify the range of expenditures a tourist spends in Tanzania. The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania. [Read more](https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge)
+
+
+# [FREE AI Classes In Every City Hackathon]()
+
+* The objective of the challenge is to predict the price (Amount (Million Naira) the company should sell a car based on the available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance). The objective is the predict the selling price. [Read more](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon)
+
+* Models: [Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
+
+* Evaluation metric: [sklearn.metrics.mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
