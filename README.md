@@ -49,7 +49,7 @@
 
 * Model(s): [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 
-* Evaluation metric(s): [Accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+* Evaluation metric(s): [Accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html),
                      [Confusion_Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
                      
 * Parameter tuning: [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
