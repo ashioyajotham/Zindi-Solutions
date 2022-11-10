@@ -38,6 +38,19 @@
 
 * The objective of the challenge is to predict the price (Amount (Million Naira) the company should sell a car based on the available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance). The objective is the predict the selling price. [Read more](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon)
 
-* Models: [Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
+* Models: [Ridge](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
 
 * Evaluation metric: [sklearn.metrics.mean_absolute_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
+
+
+# [Financial Inclusion in Africa](https://github.com/ashioyajotham/Zindi-Solutions/blob/main/financial-inclusion-in-africa.ipynb)
+* First time implementing an XGBoost and a GridSearchCV :)
+* The objective is to predict who in Africa is likely to have a bank account [More info](https://zindi.africa/competitions/financial-inclusion-in-africa)
+
+* Model(s): [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+
+* Evaluation metric(s): [Accuracy_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+                     [Confusion_Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+                     
+* Parameter tuning: [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+
