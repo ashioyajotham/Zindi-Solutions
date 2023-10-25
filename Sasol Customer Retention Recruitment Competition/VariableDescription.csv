@@ -1,0 +1,21 @@
+Variable Definitions,Unnamed: 2
+,The churn dataset includes 19 variables including 15 numeric variables and 04 categorical variables.
+ID,
+region,the location of each client
+tenure,duration in the network
+Amount,top-up amount
+refill_frequency, number of times the customer refilled
+revenue,monthly revenue of each client
+arpu_segment,revenue over 90 days / 3
+frequency,number of times the client has made an revenue
+data_volume,number of connections
+on_net,call within network
+Procuct_1,call to Procuct_1
+Procuct_2,call to Procuct_2
+zone1,call to zones1
+zone2,call to zones2
+mrg,a client who is going
+regularity,number of times the client is active for 90 days
+top_pack,the most active packs
+freq_top_pack,number of times the client has activated the top pack packages
+Target,variable to predict
